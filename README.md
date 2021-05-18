@@ -11,6 +11,6 @@
 
  ⚡ Curiosidade:
 
-- headphones Amo música. 
+- Amo música. 
 - Gosto de praticar esportes.
 - Adoro viajar.
