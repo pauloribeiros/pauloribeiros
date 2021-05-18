@@ -1,6 +1,5 @@
 ### Olá 👋
 
-<!--
 **Meu nome é Paulo Ribeiro,sou cientista de dados com foco na análise de dados utilizando as liguagens SQL, Python e desenvolvimento de projetos via Power BI.
 
 - 🔭 Estou trabalhando atualmente em um projeto desenvolvendo um modelo de predição em machine learning.
@@ -10,7 +9,7 @@
 - 📫 Como entrar em contato comigo: Paulo.enrique.ribeiro@gmail.com
 
 
-- ⚡ Curiosidade:: ...
+- ⚡ Curiosidade:
 
 --> Amo música.
 --> Gosto de praticar esportes.
