@@ -9,8 +9,8 @@
 - 📫 Como entrar em contato comigo: Paulo.enrique.ribeiro@gmail.com
 
 
-- ⚡ Curiosidade:
+ ⚡ Curiosidade:
 
---> Amo música.
---> Gosto de praticar esportes.
---> Adoro viajar.
+- headphones Amo música. 
+- Gosto de praticar esportes.
+- Adoro viajar.
